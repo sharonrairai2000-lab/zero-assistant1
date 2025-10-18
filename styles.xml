@@ -1,0 +1,6 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="android:colorBackground">@color/black</item>
+        <item name="android:textColor">@color/neon</item>
+    </style>
+</resources>
